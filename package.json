@@ -1,0 +1,27 @@
+{
+  "name": "tugas5uitest",
+  "version": "1.0.0",
+  "description": "cypress kasir aja end to end test",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/widyaryn/tugas5uitest.git"
+  },
+  "keywords": [
+    "cypress",
+    "kasir",
+    "aja"
+  ],
+  "author": "widya ariyani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/widyaryn/tugas5uitest/issues"
+  },
+  "homepage": "https://github.com/widyaryn/tugas5uitest#readme",
+  "devDependencies": {
+    "cypress": "^12.5.1"
+  }
+}
